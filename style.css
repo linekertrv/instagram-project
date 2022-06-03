@@ -135,7 +135,7 @@ height: 100vh;
     }
 }
 
-@media(max-width: 1366px) {
+@media(min-width: 1366px) {
     .instagram-wrapper {
         display: flex;
         height: 67%;
